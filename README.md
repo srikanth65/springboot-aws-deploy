@@ -5,3 +5,4 @@ To generate SpringBootProject
 Add dependencies:
 Spring Boot Actuator # health metrics
 Spring Web # Rest API
+
